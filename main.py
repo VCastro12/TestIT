@@ -3,7 +3,7 @@
 # A Car class that is a child class of the Vehicle class with the methods and attributes detailed in the class diagram below. 
 # A Pickup class is a child class of the Vehicle class with the methods and attributes detailed in the class diagram below. 
 
-message = "Welcome two our virtual garage!!"
+message = "Welcome to our virtual garage!!"
 print(message)
 
 
